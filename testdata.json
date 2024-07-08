@@ -1,0 +1,20 @@
+[
+  {
+    "key": "Kiliansplatz",
+    "latitude": 9.219739,
+    "longitude": 49141383,
+    "value": 26
+  },
+  {
+    "key": "Rathausplatz",
+    "latitude": 9.218661,
+    "longitude": 49.142276,
+    "value": 31
+  },  
+  {
+    "key": "Allee",
+    "latitude": 9.222265,
+    "longitude": 49.141596,
+    "value": 25
+  }
+]
